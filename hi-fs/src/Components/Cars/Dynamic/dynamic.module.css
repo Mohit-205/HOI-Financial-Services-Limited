@@ -1,0 +1,40 @@
+.dynamicbody{
+    border: 1px solid black;
+    max-width: 500px;
+    min-width: 300px;
+    min-height: auto;
+    max-height: 400px;
+    overflow-x: auto;
+   border-radius: 8px;
+   background: #FFFFFF;
+   border: 1px solid #C2CAD2;
+}
+
+.dynamicsecbody >div{
+display: flex;
+justify-content: space-between;
+}
+
+.dynamicsecbody p{
+color: #000000;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+margin-top: 10px;
+}
+
+.img11{
+margin-left: 10px;
+}
+
+.img22{
+margin-left: -20px;
+margin-top: 15px;
+width: 12px;
+cursor: pointer;
+position: absolute;
+}
+
+
+
