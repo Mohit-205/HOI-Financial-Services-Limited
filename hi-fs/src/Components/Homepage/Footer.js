@@ -53,7 +53,7 @@ return (
                     <a href="https://in.linkedin.com/" target="_blank"><i class="icon ion-social-linkedin"></i></a>
                     <a href="https://www.instagram.com/" target="_blank"><i class="icon ion-social-instagram"></i></a>
                     {/*<p class="copyright">Company Name © 2018</p>*/}
-                    <p class="copyright">HOI Financial Services
+                    <p class="copyright">HOI Financial Services 
                     ©{new Date().getFullYear()}
                     </p>
                 </div>
